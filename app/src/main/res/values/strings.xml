@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TelegramProfile</string>
+    <string name="anton_nagy">Anton Nagy</string>
+    <string name="online">online</string>
+    <string name="name">name</string>
+    <string name="account">Account</string>
+    <string name="phone">+201234587791</string>
+    <string name="title1">Tab to change phone number</string>
+    <string name="userName">None</string>
+    <string name="Bio">Tozzzz</string>
+    <string name="title2">Username</string>
+    <string name="bio">Bio</string>
+    <string name="setting">Setting</string>
+    <string name="chat_setting">Chat setting</string>
+</resources>

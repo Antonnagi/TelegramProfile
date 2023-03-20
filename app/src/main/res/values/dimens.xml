@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="profileMargin">16dp</dimen>
+    <dimen name="statueMargin">40dp</dimen>
+    <dimen name="normal">16dp</dimen>
+    <dimen name="marginTV">43dp</dimen>
+    <dimen name="paddAcc">16dp</dimen>
+    <dimen name="TextMainSize">20sp</dimen>
+    <dimen name="paddV">8dp</dimen>
+    <dimen name="paddH">12dp</dimen>
+    <dimen name="subTitleSize">14sp</dimen>
+    <dimen name="account">20sp</dimen>
+
+
+</resources>
